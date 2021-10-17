@@ -12,6 +12,3 @@ layout: default
 
 {% include 03-links.md %}
 
-- ULbbb1
-- UL2
-- UL3
